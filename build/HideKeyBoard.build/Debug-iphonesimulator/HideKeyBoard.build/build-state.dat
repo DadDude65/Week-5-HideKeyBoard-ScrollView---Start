@@ -1,0 +1,98 @@
+THideKeyBoard
+v7
+r0
+t445231490.887688
+cCheck dependencies
+cProcessInfoPlistFile /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app/Info.plist HideKeyBoard/Info.plist
+cCpResource build/Debug-iphonesimulator/HideKeyBoard.app/Base.lproj/Main.storyboard HideKeyBoard/Base.lproj/Main.storyboard
+cCompileXIB /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Base.lproj/LaunchScreen.xib
+cCpResource build/Debug-iphonesimulator/HideKeyBoard.app/Images.xcassets HideKeyBoard/Images.xcassets
+
+N/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Base.lproj/LaunchScreen.xib
+c0000000054D969880000000000000E84
+t1423534472
+s3716
+
+N/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Base.lproj/Main.storyboard
+c0000000054D969880000000000003ADD
+t1423534472
+s15069
+
+N/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Images.xcassets
+c0000000054D969880000000000000066
+t1423534472
+s102
+
+N/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app
+t1423538690
+s204
+
+N/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app/Base.lproj/LaunchScreen.nib
+t2
+s0
+
+N/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app/Base.lproj/Main.storyboard
+t1423538690
+s15069
+
+N/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app/Images.xcassets
+t1423538690
+s102
+
+N/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app/Info.plist
+t1423538690
+s780
+
+N/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app/PkgInfo
+t1423538690
+s8
+
+NHideKeyBoard/Info.plist
+c0000000054D969880000000000000461
+t1423534472
+s1121
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies445231490#445231490#0(247"[WARN]warning: no rule to process file '$(PROJECT_DIR)/HideKeyBoard/ViewController.swift' of type text for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/HideKeyBoard/AppDelegate.swift' of type text for architecture i3862(22@118"warning: no rule to process file '$(PROJECT_DIR)/HideKeyBoard/ViewController.swift' of type text for architecture i386445231490#18446744073709551615#0#0(1@0"0(22@115"warning: no rule to process file '$(PROJECT_DIR)/HideKeyBoard/AppDelegate.swift' of type text for architecture i386445231490#18446744073709551615#0#0(1@0"0(0#1#0"17234842624#0"0#
+
+CCompileXIB /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Base.lproj/LaunchScreen.xib
+s445231490.778140
+e445231490.887608
+r0
+xCompileXIB
+x/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Base.lproj/LaunchScreen.xib
+o/* com.apple.ibtool.errors */
+o/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Base.lproj/LaunchScreen.xib: error: Interface Builder was unable to determine the type of "LaunchScreen.xib".
+lSLF07#2@51"CompileXIB HideKeyBoard/Base.lproj/LaunchScreen.xib445231490#445231490#0(218"/* com.apple.ibtool.errors *//Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Base.lproj/LaunchScreen.xib: error: Interface Builder was unable to determine the type of "LaunchScreen.xib".1(4@73"Interface Builder was unable to determine the type of "LaunchScreen.xib".445231490#18446744073709551615#0#0(6@105"/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Base.lproj/LaunchScreen.xib445227272#0#0#0#0#0"0(0#0#105"/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Base.lproj/LaunchScreen.xib4317974528#692"    cd /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 8.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app/Base.lproj/LaunchScreen.nib /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Base.lproj/LaunchScreen.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk1#
+
+CCpResource build/Debug-iphonesimulator/HideKeyBoard.app/Base.lproj/Main.storyboard HideKeyBoard/Base.lproj/Main.storyboard
+s445231490.776890
+e445231490.785458
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HideKeyBoard.app/Base.lproj/Main.storyboard
+xHideKeyBoard/Base.lproj/Main.storyboard
+lSLF07#2@44"Copy HideKeyBoard/Base.lproj/Main.storyboard445231490#445231490#0(0"0(0#0#104"/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Base.lproj/Main.storyboard4317974528#591"    cd /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Base.lproj/Main.storyboard /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app/Base.lproj0#
+
+CCpResource build/Debug-iphonesimulator/HideKeyBoard.app/Images.xcassets HideKeyBoard/Images.xcassets
+s445231490.785525
+e445231490.792272
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/HideKeyBoard.app/Images.xcassets
+xHideKeyBoard/Images.xcassets
+lSLF07#2@33"Copy HideKeyBoard/Images.xcassets445231490#445231490#0(0"0(0#0#93"/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Images.xcassets4317974528#569"    cd /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Images.xcassets /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app0#
+
+CProcessInfoPlistFile /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app/Info.plist HideKeyBoard/Info.plist
+s445231490.726230
+e445231490.776812
+r1
+xProcessInfoPlistFile
+x/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app/Info.plist
+xHideKeyBoard/Info.plist
+lSLF07#2@31"Process HideKeyBoard/Info.plist445231490#445231490#0(0"0(0#0#88"/Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/HideKeyBoard/Info.plist17232997888#572"    cd /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HideKeyBoard/Info.plist -genpkginfo /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app/Info.plist0#
+
+CTouch /Users/webstudent/Desktop/Week-5-HideKeyBoard-ScrollView---Start/build/Debug-iphonesimulator/HideKeyBoard.app
+r0
+

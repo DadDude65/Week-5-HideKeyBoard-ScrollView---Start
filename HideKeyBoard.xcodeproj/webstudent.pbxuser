@@ -1,0 +1,112 @@
+// !$*UTF8*$!
+{
+	0DF7E49F1A89ADA500BDB8E3 /* HideKeyBoard */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = HideKeyBoard;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0DF7E4AB1A89ADC400BDB8E3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0DF7E4AC1A89ADC400BDB8E3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	36101A901A893E96002D8BE4 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0DF7E49F1A89ADA500BDB8E3 /* HideKeyBoard */;
+		activeTarget = 36101A971A893E96002D8BE4 /* HideKeyBoard */;
+		codeSenseManager = 0DF7E4AC1A89ADC400BDB8E3 /* Code sense */;
+		executables = (
+			0DF7E49F1A89ADA500BDB8E3 /* HideKeyBoard */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 445231664;
+			PBXWorkspaceStateSaveDate = 445231664;
+		};
+		sourceControlManager = 0DF7E4AB1A89ADC400BDB8E3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	36101A971A893E96002D8BE4 /* HideKeyBoard */ = {
+		activeExec = 0;
+		executables = (
+			0DF7E49F1A89ADA500BDB8E3 /* HideKeyBoard */,
+		);
+	};
+	36101A9D1A893E96002D8BE4 /* AppDelegate.swift */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2007, 648}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2158}";
+		};
+	};
+	36101A9F1A893E96002D8BE4 /* ViewController.swift */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1411, 2639}}";
+			sepNavSelRange = "{6869, 0}";
+			sepNavVisRange = "{0, 1465}";
+		};
+	};
+	36101AA21A893E96002D8BE4 /* Base */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2490, 1989}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 4812}";
+		};
+	};
+	36101AAC1A893E96002D8BE4 /* HideKeyBoardTests */ = {
+		activeExec = 0;
+	};
+}
